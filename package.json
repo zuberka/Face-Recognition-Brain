@@ -4,6 +4,7 @@
   "homepage": "https://zuberka.github.io/Face-Recognition-Brain",
   "private": true,
   "dependencies": {
+    "clarifai": "^2.9.0",
     "gh-pages": "^2.0.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
